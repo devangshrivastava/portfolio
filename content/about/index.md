@@ -1,5 +1,6 @@
 ---
 title: "About"
+hideFooter: true
 date: 2022-04-09T23:15:00+07:00
 slug: about
 category:
@@ -12,6 +13,7 @@ cover:
   relative: true
 showtoc: false
 draft: false
+
 ---
 
 <!-- In my daytime, I work as a Developer Advocate at a US Tech company. 
