@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/blogs/</loc>
+    <lastmod>2025-02-19T03:38:01+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-02-19T03:38:01+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blogs/my-sg-experience/</loc>
+    <lastmod>2025-02-19T03:38:01+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blogs/how-to-master-streamlit-for-data-science/</loc>
+    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/erpred/</loc>
+    <lastmod>2022-04-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+    <lastmod>2022-04-05T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projects/acetylcholinesterase/</loc>
+    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url>
+</urlset>
