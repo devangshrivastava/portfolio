@@ -50,7 +50,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi I am Devang Shrivastava!"
-    subtitle: "Working on shit thats **hard** and **tough**"
+    subtitle: "Working on shit that's **hard** and **tough**"
     imageUrl: "images/dp.png"
     imageWidth: 120
     imageHeight: 120
