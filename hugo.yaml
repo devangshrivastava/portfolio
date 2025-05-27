@@ -42,16 +42,15 @@ params:
   tocopen: false
 
   label:
-    text: "Devang Shrivastava"
+    text: "Devang"
     icon: "images/coding.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "Hi I am **Devang Shrivastava** and
-    currently persuing my B.Tech in Computer Science and Engineering from IIT Jodhpur. Feel free to reach out to me, at shrivastavadevang0627@gmail.com"
+    title: "Hi I am Devang Shrivastava!"
+    subtitle: "Working on shit thats **hard** and **tough**"
     imageUrl: "images/dp.png"
     imageWidth: 120
     imageHeight: 120
@@ -65,9 +64,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
-    Content: "This is the website of **Devang Shrivastava, Ph.D.** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
+    Content: "This is the website of **Devang Shrivastava,**"
 
   social:
     - name: youtube
