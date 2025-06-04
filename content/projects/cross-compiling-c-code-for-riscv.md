@@ -7,7 +7,7 @@ summary:
 description:
 cover:
   image: /images/projects/cross-compiling-c-code-for-riscv.jpeg
-  
+
   alt:
   caption:
   relative: true
@@ -17,11 +17,10 @@ draft: false
 
 # Cross-Compiling C Code for RISC-V (with Vector Extensions) and Performance Comparison
 
-Harshil Kaneria and I worked under Dr. Binod Kumar where we assisted Jaitra.inc to build a Cross-Compiling C Code for RISC-V. Our work was to execute [llama2.c](https://github.com/karpathy/llama2.c) file in risc-v and check its performance. 
+As part of a project under the guidance of Dr. Binod Kumar and in collaboration with Jaitra Inc., Harshil Kaneria and I worked on setting up a cross-compilation workflow for RISC-V. Our primary objective was to successfully compile and execute the llama2.c project on a RISC-V 64-bit Linux environment and evaluate its performance across various optimization levels.
 
+This guide documents the complete setup process, including building the required toolchains, compiling C code for RISC-V with vector extension support, and analyzing performance on different platforms.
 
-
-This guide covers the process of cross-compiling C programs for RISC-V 64-bit Linux targets using LLVM/Clang and GNU toolchains. It also includes performance benchmarks across different optimization levels and platforms. 
 
 ---
 
