@@ -1,6 +1,6 @@
 ---
 title: "Cross Compiling C Code for RISC-V"
-date: 2025-06-04T17:45:46+05:30
+date: 2024-07-20T17:45:46+05:30
 slug: cross-compiling-c-code-for-riscv
 category: projects
 summary:
