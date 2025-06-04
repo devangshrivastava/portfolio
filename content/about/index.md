@@ -26,6 +26,6 @@ You can also connect with me at [**LinkedIn**](https://www.linkedin.com/in/) or 
 
 You’ll find my work on **GitHub**: [**devangshrivastava**](https://github.com/devangshrivastava), 
 
-And my thoughts on my [**portfolio**](https://devangshrivastava.github.io/portfolio/)
+And my thoughts on my [**blogs**](https://devangshrivastava.github.io/portfolio/blogs/)
 
 I just don't write blog about tech I write blog about me!
