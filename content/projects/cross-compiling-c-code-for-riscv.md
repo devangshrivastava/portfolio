@@ -6,7 +6,7 @@ category: projects
 summary:
 description:
 cover:
-  image: /images/projects/cross-compiling-c-code-for-riscv.jpeg
+  image: /portfolio/images/projects/cross-compiling-c-code-for-riscv.jpeg
 
   alt:
   caption:
