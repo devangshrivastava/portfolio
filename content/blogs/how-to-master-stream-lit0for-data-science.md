@@ -16,7 +16,7 @@ draft: false
 
 # Preview
 
-## The essential Streamlit for all your data science needs
+<!-- ## The essential Streamlit for all your data science needs
 
 To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.
 
@@ -26,4 +26,4 @@ In this article, you’ll learn how to master Streamlit when getting started wit
 
 Let’s dive in!
 
-[Read blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/)
+[Read blog](https://blog.streamlit.io/how-to-master-streamlit-for-data-science/) -->

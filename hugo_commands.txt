@@ -1,0 +1,5 @@
+To run hugo server locally: hugo server -D 
+To start a new project page: hugo new projects/cross-compiling-c.md
+
+
+
