@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "//devang.tech/"
+baseURL: "https://devangshrivastava.github.io/portfolio/"
 title: Devang Shrivastava
 pagination:
   pagerSize: 5
