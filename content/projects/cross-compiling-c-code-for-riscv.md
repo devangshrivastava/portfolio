@@ -12,7 +12,7 @@ cover:
   caption:
   relative: false
 showtoc: true
-draft: false
+draft: true
 ---
 
 
