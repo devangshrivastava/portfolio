@@ -18,7 +18,7 @@ draft: false
 
 As part of a project under the guidance of Dr. Binod Kumar and in collaboration with Jaitra Inc., Harshil Kaneria and I worked on setting up a cross-compilation workflow for RISC-V. Our primary objective was to successfully compile and execute the llama2.c project on a RISC-V 64-bit Linux environment and evaluate its performance across various optimization levels.
 
-This guide documents the complete setup process, including building the required toolchains, compiling C code for RISC-V with vector extension support, and analyzing performance on different platforms.
+This guide documents the complete setup process, including building the required toolchains, compiling C code for RISC-V from X-86 architecture, and analyzing performance on different platforms.
 
 
 ---
