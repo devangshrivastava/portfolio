@@ -245,4 +245,3 @@ For more details, contributions, or issues, visit:
 
 * [LLVM Project](https://github.com/llvm/llvm-project)
 * [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain)
-
