@@ -1,7 +1,7 @@
 ---
-title: "Web Browser"
+title: "Web crawler"
 date: 2025-06-22T01:14:54+05:30
-slug: "web-browser"
+slug: "web-crawler"
 category: projects
 summary: ""
 description: ""
