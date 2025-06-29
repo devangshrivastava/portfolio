@@ -28,4 +28,6 @@ You’ll find my work on **GitHub**: [**devangshrivastava**](https://github.com/
 
 And my thoughts on my [**blogs**](https://devangshrivastava.github.io/portfolio/blogs/)
 
+Here is my resume, I try to regularly update it. [RESUME](https://drive.google.com/file/d/1G-lqvKx-1K8xuh1iFTjTkesB1UL9dlqn/view?usp=sharing). I like to make products that brings impact. If u feel like we share similar view drop me a mail. Lets connect.  
+
 I just don't write blog about tech I write blog about me!
